@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+ .f{
+    border: 1px solid black;
+    background-color: #3b5999;
+    color: #fff;
+    
+ } 
+  .main{
+      border: 1px solid black;
+      background-color: #fffbe2;
+      color:  #3b5999;
+      font-weight: 600;
+      font-size: 1rem;
+      align-items: start;
+      display: flex;
+      text-transform: uppercase;
+      padding: 1rem;
+      padding-left: 0;
+
+      
+    
+  } 
+   .fa-mobile{
+        height: 2.5rem;
+        padding: 0rem 0.5rem ;
+        font-size: 2.5rem;
+        
+   } 
+   .main p{
+    padding-top: 5px;
+   } 
+    .prachi{
+        width: 98%;
+        padding: 0.85rem;
+        border: 1px solid #eceef6 ;
+        
+      
+       
+        
+    } 
+     label{
+        color: grey;
+        display: flex;
+        font-weight: 600;
+        margin-left: 0.5rem;
+        font-size: 1.2rem;
+        
+     }
+
+     .b{
+        width: 100%;
+        padding: 1rem;
+        background-color: #3b5999; 
+        color: #fff;
+        font-size: 1.4rem;
+        border: 0;
+        border-radius: 10px;
+     }   
+
+     .btn{
+        display: grid;
+        place-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+        
+        
+     }
+      .or{
+        align-items: center;
+        font-size: 2rem;
+        margin: 1rem auto;
+      }  
+      .V{
+         padding: 1.5rem;
+        background-color: #43b72a;
+        color: #fff;
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        border: none;
+        border-radius: 0.5rem;
+   
+         
+      } 
+      .Forget{
+         color: #3b5999;
+      } 
+       .language{
+         border-radius: 0.5rem;
+         background-color:#44494f ;
+         color:#d4dde8;
+         display: flex;
+         padding: 2.5rem;
+         padding-left: 1rem;
+         position: relative;
+         margin-top: 7rem;
+         line-height: 2rem;
+         
+         
+
+   
+
+       } 
+       .E{
+         display: flex;
+         flex-direction: column;
+
+       } 
+       .hindi{
+         display: flex;
+         flex-direction: column;
+         margin-left: 2rem;
+         position: absolute;
+         top: 2.5rem;
+        left: 26rem;
+
+} 
+.inpt{
+   padding-bottom: 8rem;
+   background-color: #eceff6;
+} 
+.fa-regular{
+   font-size: 2rem;
+   margin-top: 1rem;
+
+} 
+.pdg{
+   padding-top: 1.5rem;
+} 
+
+.tre:focus{
+   box-shadow: 0 0 6px rgba(35, 173, 278, 1);
+   border: 0;
+   outline: 0;
+ }
+ .tre{
+   height: 70px;
+   width: 100%;
+   line-height: 70px;
+   text-align: center;
+   border: 2px solid #ddd;
+   border-radius: 3px;
+   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+   transition: all 200ms ease-out;
+ }
+
+
+
+      
+       
+
+       
+
+
